@@ -1,6 +1,6 @@
 #  Análisis Exploratorio de Vuelos NYC 2013
 
-## [Ver reporte interactivo aquí](https://Adrian-Mtz03.github.io/analisis-vuelos-nyc-2013/Proyecto.html)
+
 
 **Autor:** Guillermo Adrian Martinez Vanegas  
 **Herramientas:** R · dplyr · SQL · SQLite · ggplot2 · Quarto  
