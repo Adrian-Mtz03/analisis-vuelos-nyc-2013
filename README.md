@@ -1,6 +1,6 @@
 #  Análisis Exploratorio de Vuelos NYC 2013
 
-[Ver reporte interactivo](https://adrian-mtz03.github.io/analisis-vuelos-nyc-2013/)
+## [Ver reporte interactivo aquí](https://Adrian-Mtz03.github.io/analisis-vuelos-nyc-2013/Proyecto.html)
 
 
 **Autor:** Guillermo Adrian Martinez Vanegas  
@@ -119,5 +119,6 @@ quarto render Proyecto.qmd
 ## Contacto
 
 **Guillermo Adrian Martinez Vanegas**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/martinezvanegas-guillermoadrian-468073323)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Adrian-Mtz03.github)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martinezvanegas-guillermoadrian-468073323)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Adrian-Mtz03)
