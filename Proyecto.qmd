@@ -1,13 +1,14 @@
 ---
----
 title: "Proyecto"
 format:
   html:
-    toc: true
-    toc-depth: 2
-    toc-title: "Índice"
-    toc-location: left
+    embed-resources: true
+    self-contained: true
 editor: visual
+execute:
+  warning: false
+  message: false
+
 ---
 
 # Primera parte - R: Vuelos de NYC
