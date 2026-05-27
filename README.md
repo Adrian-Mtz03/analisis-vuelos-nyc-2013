@@ -2,7 +2,6 @@
 
 ## [Ver reporte interactivo aquí](https://Adrian-Mtz03.github.io/analisis-vuelos-nyc-2013/Proyecto.html)
 
-
 **Autor:** Guillermo Adrian Martinez Vanegas  
 **Herramientas:** R · dplyr · SQL · SQLite · ggplot2 · Quarto  
 **Dataset:** `nycflights13` — 336,776 vuelos desde los aeropuertos de Nueva York
