@@ -1,4 +1,4 @@
-# ✈️ Análisis Exploratorio de Vuelos NYC 2013
+#  Análisis Exploratorio de Vuelos NYC 2013
 
 **Autor:** Guillermo Adrian Martinez Vanegas  
 **Herramientas:** R · dplyr · SQL · SQLite · ggplot2 · Quarto  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Descripción
+##  Descripción
 
 Análisis exploratorio de datos del dataset `nycflights13`, que registra todos los vuelos comerciales que partieron desde los tres aeropuertos de Nueva York (JFK, LGA y EWR) durante 2013.
 
@@ -16,7 +16,7 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 | Herramienta | Uso |
 |---|---|
@@ -30,7 +30,7 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## ❓ Preguntas analizadas
+##  Preguntas analizadas
 
 | # | Pregunta |
 |---|---|
@@ -57,7 +57,7 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## 📊 Visualizaciones incluidas
+##  Visualizaciones incluidas
 
 - **Violin plot** con escala logarítmica — distribución de retrasos por aeropuerto
 - **Bubble chart** — relación entre antigüedad del avión y retraso promedio
@@ -67,7 +67,7 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## 🔍 Hallazgos principales
+##  Hallazgos principales
 
 - **SkyWest Airlines** registró el mayor retraso promedio de salida en 2013
 - El **jueves** es el día con más vuelos retrasados en promedio
@@ -80,10 +80,10 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
-📦 analisis-vuelos-nyc
+ analisis-vuelos-nyc
 ├── Proyecto_primera_parte.qmd   # Código fuente Quarto
 ├── Proyecto_primera_parte.html  # Reporte renderizado
 ├── vuelos.db                    # Base de datos SQLite
@@ -92,7 +92,7 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 ---
 
-## ▶️ Cómo reproducir el análisis
+##  Cómo reproducir el análisis
 
 1. Clona el repositorio:
 ```bash
