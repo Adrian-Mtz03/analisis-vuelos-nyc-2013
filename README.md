@@ -1,6 +1,6 @@
 #  Análisis Exploratorio de Vuelos NYC 2013
 
-## [Ver reporte interactivo aquí](https://Adrian-Mtz03.github.io/analisis-vuelos-nyc-2013/Proyecto.html)
+## [Ver reporte interactivo aquí](https://Adrian-Mtz03.github.io/analisis-vuelos-nyc-2013/Proyecto_primera_parte.html)
 
 
 **Autor:** Guillermo Adrian Martinez Vanegas  
