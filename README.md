@@ -99,10 +99,10 @@ La decisión metodológica central del análisis fue **filtrar únicamente los r
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/analisis-vuelos-nyc.git
+git clone https://github.com/Adrian-Mtz03/analisis-vuelos-nyc.git
 ```
 
-2. Abre `Proyecto_primera_parte.qmd` en RStudio
+2. Abre `Proyecto.qmd` en RStudio
 
 3. Instala las dependencias necesarias:
 ```r
@@ -111,13 +111,13 @@ install.packages(c("DBI", "RSQLite", "dplyr", "ggplot2", "lubridate", "knitr"))
 
 4. Renderiza el documento:
 ```bash
-quarto render Proyecto_primera_parte.qmd
+quarto render Proyecto.qmd
 ```
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 **Guillermo Adrian Martinez Vanegas**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/martinezvanegas-guillermoadrian-468073323)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Adrian-Mtz03.github)
